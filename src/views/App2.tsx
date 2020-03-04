@@ -15,8 +15,8 @@ interface Props {
   // person: Person
 }
 
-const App_2: React.FC<Props> = () => {
+const App2: React.FC<Props> = () => {
   return <div>This is App_2</div>
 }
 
-export default App_2
+export default App2

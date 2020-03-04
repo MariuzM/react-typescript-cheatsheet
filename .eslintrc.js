@@ -1,6 +1,5 @@
 module.exports = {
   parser: '@typescript-eslint/parser',
-  plugins: ['react', 'typescript', 'standard', 'prettier'],
   extends: [
     'plugin:@typescript-eslint/recommended',
     'prettier/@typescript-eslint',
@@ -11,4 +10,13 @@ module.exports = {
     ecmaVersion: 2018, // Allows for the parsing of modern ECMAScript features
     // ecmaFeatures: { jsx: true },
   },
+  // overrides: [
+  //   {
+  //     files: ['*.ts', '*.tsx'],
+  //     rules: {
+  //       '@typescript-eslint/no-unused-vars': false,
+  //     },
+  //   },
+  // ],
+  // plugins: ['typescript', 'react', 'standard', 'prettier'],
 }
