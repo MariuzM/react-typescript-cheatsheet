@@ -1,6 +1,6 @@
-# Title
+# Typescript Cheatsheet
 
-Summary
+Just my own Cheat Sheet for my learning of TypeScript
 
 ### Installing
 
@@ -10,9 +10,5 @@ npm install
 
 ## Built With
 
-- As of 2020-02-02 all latest packages
+- As of 2020-04-03 all latest packages
 - Function components
-- Hooks
-- Material UI for Button and Checkbox'es
-- Used Prop Types
-# react-typescript-cheatsheet

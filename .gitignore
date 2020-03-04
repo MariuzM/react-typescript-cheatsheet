@@ -1,0 +1,7 @@
+.cache
+.DS_Store
+.prettierrc
+resource
+node_modules
+dist
+build
