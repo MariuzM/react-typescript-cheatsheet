@@ -1,4 +1,4 @@
-# Typescript Cheatsheet
+# Typescript Cheat Sheet
 
 Just my own Cheat Sheet for my learning of TypeScript
 
