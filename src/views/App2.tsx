@@ -9,7 +9,7 @@ const obj: {
 }
 
 const App2: React.FC = () => {
-  return <div>{obj.level}</div>
+  return <div style={{ backgroundColor: '#ABEBC6' }}>{obj.level}</div>
 }
 
 export default App2
