@@ -1,6 +1,6 @@
 import React from 'react'
 
-// Simple Prop `string` type
+// Simple `text` Prop `string` type
 // =======================================
 const AppFirst: React.FC<{ text: string }> = () => <div>This is App_1</div>
 // =======================================
